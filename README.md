@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kashavrandheer
+- 👋 Hi, I’m @harshraj
 - 👀 I’m interested as freelancer
 - 🌱 I’m currently learning python/ai
 - 💞️ I’m looking to collaborate on ...
